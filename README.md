@@ -33,7 +33,7 @@ Users can create accounts, log in securely, and perform basic banking operations
    ```
 2. Compile the source code:
    ```bash
-   gcc banka_uygulamasi.c -o bankapp
+   gcc banka_application.c -o bankapp
    ```
 3. Run the program:
    ```bash
